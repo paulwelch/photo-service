@@ -10,3 +10,13 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# Cassandra dev data
+cassandra-data
+
+# OSX
+DS_Store
+
+# IDE's
+.idea
+.vscode
